@@ -8,8 +8,6 @@ I built many projects here, including a way to relive and share your memories as
 
 I'm always looking for more opportunities to collaborate and work on projects. You can reach me at yifan65 [at] illinois [dot] edu.
 
-image filtering app (PhotoGleam), a 
-
 <!--
 **im-yifanluo/im-yifanluo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
