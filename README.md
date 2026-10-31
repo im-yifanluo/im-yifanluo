@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Yifan 👋
+
+I'm currently studying computer science at UIUC, and I really enjoy working on interesting projects and learning new skills. I am particularly excited about machine learning, computer vision, robotics, and building full-stack applications around those fields. I'm currently an undergraduate researcher at the RoboTouch Lab at UIUC, working on VLAs and WAMs. I'm also building Framelight, a tool to help people take better photographs easily. 
+
+I'm currently learning more about the more theoretical (or perhaps more interesting) aspects of computer science through CS 374 Algorithms and Models of Computation, and much more about computer vision through CS 498 Machine Perception.
+
+I built many projects here, including a way to relive and share your memories as 3D worlds (Memos), an image filtering app (PhotoGleam), many prototypes and benchmarking software for RAG systems, simulation and data collection methods for robotics, a central limit order book in Rust, trading bots, and so much more!
+
+I'm always looking for more opportunities to collaborate and work on projects. You can reach me at yifan65 [at] illinois [dot] edu.
+
+image filtering app (PhotoGleam), a 
 
 <!--
 **im-yifanluo/im-yifanluo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
