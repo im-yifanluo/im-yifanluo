@@ -8,6 +8,12 @@ I'm studying computer science at the University of Illinois Urbana-Champaign, ex
 
 I’ve also worked with Professor Kevin Chang in the FORWARD Data Lab on retrieval-augmented generation for long-document question answering, building tools to trace failures from retrieved evidence and exploring ways to improve evidence aggregation.
 
+### My Projects
+
+PhotoGleam was my very first app and experience connecting a mobile interface to a backend. I built it with Flutter and Python to apply filters to photos. Since then, I've worked on different parts of a product. For Rem, I built the pipeline that turns video into an explorable 3D scene. At CalHacks, I built Memos, where friends can revisit a recording as a 3D world together from different devices.
+
+I’ve also worked on problems outside of computer vision. I built a Rust order book that matches buy and sell orders, and I built a World Cup forecasting system that used market odds and team lineups to make predictions, submit them, and verify they went through. My top entry finished 17th out of 4,013 in the Jump Trading Probability Cup.
+
 I'm always happy to talk about robot learning, computer vision, or a project we could build together.
 
 You can reach me at **yifan65 [at] illinois [dot] edu** or my [LinkedIn](https://www.linkedin.com/in/luo-yifan).
